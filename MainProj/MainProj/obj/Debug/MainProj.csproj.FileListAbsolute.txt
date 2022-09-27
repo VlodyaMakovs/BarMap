@@ -1,0 +1,11 @@
+D:\BarMap\MainProj\MainProj\bin\Debug\MainProj.exe.config
+D:\BarMap\MainProj\MainProj\bin\Debug\MainProj.exe
+D:\BarMap\MainProj\MainProj\bin\Debug\MainProj.pdb
+D:\BarMap\MainProj\MainProj\obj\Debug\MainProj.csproj.AssemblyReference.cache
+D:\BarMap\MainProj\MainProj\obj\Debug\MainProj.csproj.SuggestedBindingRedirects.cache
+D:\BarMap\MainProj\MainProj\obj\Debug\MainProj.Form1.resources
+D:\BarMap\MainProj\MainProj\obj\Debug\MainProj.Properties.Resources.resources
+D:\BarMap\MainProj\MainProj\obj\Debug\MainProj.csproj.GenerateResource.cache
+D:\BarMap\MainProj\MainProj\obj\Debug\MainProj.csproj.CoreCompileInputs.cache
+D:\BarMap\MainProj\MainProj\obj\Debug\MainProj.exe
+D:\BarMap\MainProj\MainProj\obj\Debug\MainProj.pdb

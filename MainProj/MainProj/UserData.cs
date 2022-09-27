@@ -9,14 +9,16 @@ namespace MainProj
     internal class UserData
     {
         private int id;
+        private string login;
         private string name;
         private string email;
         private string password;
         private int role;
 
-        public UserData(int id, string name, string email, string password, int role)
+        public UserData(int id, string login, string name, string email, string password, int role)
         {
             this.Id = id;
+            this.Login = login;
             this.Name = name;
             this.Email = email;
             this.Password = password;
@@ -29,5 +31,6 @@ namespace MainProj
         public string Email { get => email; set => email = value; }
         public string Password { get => password; set => password = value; }
         public int Role { get => role; set => role = value; }
+        public string Login { get => login; set => login = value; }
     }
 }
