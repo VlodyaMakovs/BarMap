@@ -54,5 +54,13 @@ namespace MainProj
 
             }
         }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            this.Hide();
+            var form2 = new CocktailСard();
+            form2.Closed += (s, args) => this.Close();
+            form2.Show();
+        }
     }
 }
